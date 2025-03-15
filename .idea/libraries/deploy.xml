@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="deploy">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/email-writer-react/deploy.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
